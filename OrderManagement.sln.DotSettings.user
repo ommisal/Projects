@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7d9e4a0_002Dffdd_002D4583_002Dba0f_002D5db135893eac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Order_ShouldThrowException_WhenOrderNumberIsNullOrEmpty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::30F06449-062C-4C8A-838D-3BDF0BDAB3D8::net8.0::OrderManagement.Tests.Models.OrderTests.Order_ShouldThrowException_WhenOrderNumberIsNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::30F06449-062C-4C8A-838D-3BDF0BDAB3D8::net8.0::OrderManagement.Tests.Models.OrderTests.Order_ShouldThrowException_WhenQuantityIsNegative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::30F06449-062C-4C8A-838D-3BDF0BDAB3D8::net8.0::OrderManagement.Tests.CsvToXmlConversion.CsvToXmlConverterTests.MultipleOrders_ShouldReturnAllOrders&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::30F06449-062C-4C8A-838D-3BDF0BDAB3D8::net8.0::OrderManagement.Tests.CsvToXmlConversion.CsvToXmlConverterTests.emptyCsv_ShouldThrowInvalidOperation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::30F06449-062C-4C8A-838D-3BDF0BDAB3D8::net8.0::OrderManagement.Tests.Controllers.OrdersControllerTests.GetOrdersByNumber_ValidOrderNumber_ReturnsOk&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
